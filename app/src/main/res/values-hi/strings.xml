@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FOCUS PRO</string>
+    <string name="accessibility_service_label">FOCUS PRO ऐप ब्लॉकर</string>
+    <string name="accessibility_service_description">जब कोई ब्लॉक किया गया ऐप खुलता है तो FOCUS PRO को लॉक स्क्रीन दिखाने में मदद करता है। कोई भी पासवर्ड, टेक्स्ट या निजी डेटा नहीं पढ़ा जाता।</string>
+</resources>

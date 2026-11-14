@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FOCUS PRO</string>
+    <string name="accessibility_service_label">FOCUS PRO App Blocker</string>
+    <string name="accessibility_service_description">Detects when a blocked app is opened so FOCUS PRO can display your focus lock screen. No screen content, passwords, or keystrokes are ever read or collected.</string>
+</resources>
